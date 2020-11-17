@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  background-color:  #ecdaf4 ;
+  margin-top: 10px;
+}
+
+.camera-fragment {
+  border-radius: 12px;
+}
+
+.chart {
+  margin: 20px;
+}
